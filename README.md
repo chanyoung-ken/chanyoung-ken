@@ -24,14 +24,17 @@
 
 ## 🎓 Education
 
-<p align="center">
-  <img src="https://picsum.photos/400/120?random=1" alt="KENTECH Logo" width="400"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1e3a8a,100:3b82f6&height=150&section=header&text=KENTECH&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Korea%20Institute%20of%20Energy%20Technology&descAlignY=75&descAlign=50"/>
+
+</div>
 
 <p align="center">
-  <strong>🏛️ Korea Institute of Energy Technology (KENTECH)</strong><br/>
-  📍 Naju, Jeonnam, Republic of Korea<br/>
-  🎯 Nuclear Engineering Major with AI/ML Specialization
+  <img src="https://img.shields.io/badge/🏛️_KENTECH-Nuclear_Engineering-1e3a8a?style=for-the-badge&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/📍_Location-Naju,_Jeonnam,_Korea-3b82f6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎯_Major-Nuclear_Engineering_+_AI/ML-06b6d4?style=flat-square"/>
 </p>
 
 ## About Me
