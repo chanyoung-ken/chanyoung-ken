@@ -1,4 +1,4 @@
-# GitHub Profile README Demo
+# Ai and Nuclear Engineering 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20World!⚛️&animation=fadeIn&type=waving&color=gradient&height=100"/>
@@ -9,7 +9,7 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:chanyoung3351@kentedch.ac.kr">
     <img height="40" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,12 +22,24 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>
 
+## 🎓 Education
+
+<p align="center">
+  <img src="https://picsum.photos/400/120?random=1" alt="KENTECH Logo" width="400"/>
+</p>
+
+<p align="center">
+  <strong>🏛️ Korea Institute of Energy Technology (KENTECH)</strong><br/>
+  📍 Naju, Jeonnam, Republic of Korea<br/>
+  🎯 Nuclear Engineering Major with AI/ML Specialization
+</p>
+
 ## About Me
 
 ```yaml
 name: "Nuclear Engineering & AI Student"
 education: 
-  - "Nuclear Engineering Major"
+  - "Nuclear Engineering Major at KENTECH"
   - "AI/ML Specialization"
 current_focus:
   - "Data Science with Python"
@@ -43,8 +55,46 @@ interests:
   - "Nuclear Physics Simulation"
   - "AI Model Optimization"
   - "Data Analysis & Visualization"
-philosophy: "Clean Code, Modular Design, Consistency"
+philosophy: "Clean Code, Modular Design, Consistency, Reusability"
 ```
+
+## 🔬 Research Experience
+
+### Current Research | IRIS Lab at KENTECH
+<p align="center">
+  <a href="https://sites.google.com/kentech.ac.kr/nis/">
+    <img src="https://img.shields.io/badge/IRIS_Lab-Nuclear_Safety-blue?style=for-the-badge&logo=atom&logoColor=white"/>
+  </a>
+</p>
+
+**🛡️ Intelligent Reactor for Innovative Safety (IRIS Lab.)**
+- **Focus**: Nuclear systems safety and green-energy world realization
+- **Research Area**: Nuclear reactor safety analysis and innovative safety systems
+- **Supervisor**: Prof. Kyung Mo Kim
+- **Location**: The Class Building Rm #539, KENTECH, Naju
+
+### Previous Research | SEDiC Lab at PNU
+<p align="center">
+  <a href="https://sites.google.com/view/kimgroupchem">
+    <img src="https://img.shields.io/badge/SEDiC_Lab-Computational_Chemistry-green?style=for-the-badge&logo=flask&logoColor=white"/>
+  </a>
+</p>
+
+**⚗️ Sustainable Energy via Digital Chemistry (SEDiC Lab)**
+- **Focus**: Innovative Digital Chemistry Approaches to Sustainable Energy
+- **Research Area**: Computation-driven design principles for advanced energy materials
+- **Methodology**: Molecular-level computational chemistry and chemical/physical principles
+- **Research Motto**: "Deeper understanding for better prediction"
+- **Location**: Pusan National University, Busan, Korea
+
+<div align="center">
+
+| Research Area | Institution | Focus |
+|:---:|:---:|:---:|
+| 🛡️ **Nuclear Safety** | KENTECH IRIS Lab | Intelligent reactor systems & safety |
+| ⚗️ **Computational Chemistry** | PNU SEDiC Lab | Digital chemistry for energy materials |
+
+</div>
 
 ## Tech Stack & Tools
 
