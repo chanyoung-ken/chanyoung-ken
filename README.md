@@ -9,7 +9,7 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:chanyoung3351@kentedch.ac.kr">
+  <a href="mailto:chanyoung3351@kentech.ac.kr">
     <img height="40" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
