@@ -1,6 +1,5 @@
 # GitHub Profile README Demo
 
-```html
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20World!⚛️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -101,12 +100,6 @@ philosophy: "Clean Code, Modular Design, Consistency"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanyoung-ken&layout=compact&theme=radical"/>
 </p>
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/chanyoung-ken/chanyoung-ken/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ## Code Philosophy
 
 ```python
@@ -134,4 +127,3 @@ class Developer:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```****
