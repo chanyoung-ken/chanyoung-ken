@@ -84,10 +84,7 @@ philosophy: "Clean Code, Modular Design, Consistency, Reusability"
 </p>
 
 **⚗️ Sustainable Energy via Digital Chemistry (SEDiC Lab)**
-- **Focus**: Innovative Digital Chemistry Approaches to Sustainable Energy
-- **Research Area**: Computation-driven design principles for advanced energy materials
-- **Methodology**: Molecular-level computational chemistry and chemical/physical principles
-- **Research Motto**: "Deeper understanding for better prediction"
+
 - **Location**: Pusan National University, Busan, Korea
 
 <div align="center">
